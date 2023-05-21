@@ -17,7 +17,7 @@
 Clone the repository:
 
 ```sh
-
+https://github.com/hufflk96/TeamProfilegen.git
 ```
 
 Install the required dependencies:
