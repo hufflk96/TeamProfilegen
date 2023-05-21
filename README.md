@@ -40,7 +40,12 @@ node index
   >* Use the command `npm run reset` to reset the `dist/` folder
   <br><br>
 View the `sample.html` output [here](./assets/sample.html) <br><br>
-[Demo Video]()
+[Demo Video](https://watch.screencastify.com/v/cJfrDbrrAroRf2YmgCP1)
+
+![TeamProfile SS](https://github.com/hufflk96/TeamProfilegen/assets/118147274/9512dddb-eb86-4b4b-b72c-2d446482e922)
+
+
+
 
 
 ## Tests
@@ -49,6 +54,7 @@ View the `sample.html` output [here](./assets/sample.html) <br><br>
 
 ## Contact Me
 Email: Hufflk96@gmail.com
+
 View my profile – [GitHub](https://github.com/hufflk96)
 
 ## Contributing
