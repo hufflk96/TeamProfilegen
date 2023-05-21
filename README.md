@@ -45,6 +45,7 @@ View the `sample.html` output [here](./assets/sample.html) <br><br>
 ![TeamProfile SS](https://github.com/hufflk96/TeamProfilegen/assets/118147274/9512dddb-eb86-4b4b-b72c-2d446482e922)
 
 
+![TEAMProfileSSHTML](https://github.com/hufflk96/TeamProfilegen/assets/118147274/0fcf514f-cc31-4707-902c-87dae0aa409a)
 
 
 
